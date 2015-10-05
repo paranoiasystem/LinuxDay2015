@@ -1,0 +1,4 @@
+for data in Cartella/**/*
+do
+    echo ${data}
+done
